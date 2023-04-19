@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "156511535373",
+    "project_id": "itas274-final-7099d",
+    "storage_bucket": "itas274-final-7099d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156511535373:android:5fc7e741c037a8e1fc7044",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156511535373-1p7om2u4nh73jk8j4hi8i9tkmu86ve37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq6a2f_gIJiRt72MMK-H-xQOcCZHc_ERQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156511535373-1p7om2u4nh73jk8j4hi8i9tkmu86ve37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156511535373-vdc0iuicnqqlg3eopmqjre1ppobjmbl8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
